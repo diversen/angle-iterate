@@ -1,0 +1,24 @@
+{
+  "name": "angle-iterate",
+  "version": "1.0.0",
+  "description": "Simple object that will iterate around a circle and get the next iterated angle in radians",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diversen/angle-iterate.git"
+  },
+  "keywords": [
+    "iteration",
+    "circle",
+    "radians"
+  ],
+  "author": "Dennis Iversen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diversen/angle-iterate/issues"
+  },
+  "homepage": "https://github.com/diversen/angle-iterate#readme"
+}

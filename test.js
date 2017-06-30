@@ -2,6 +2,9 @@
 
 var angleIterate = require('./index.js');
 
+// Above is the test. Use this if you have installed the module:
+// var angleIterate = require('angle-iterate');
+
 var a = new angleIterate();
 
 // The folowing values are the defaults
