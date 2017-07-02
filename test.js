@@ -2,7 +2,10 @@
 
 var angleIterate = require('./index.js');
 
-// Above is the test. Use this if you have installed the module:
+// Above is the test. 
+// 
+// Use this if you have installed the module:
+// 
 // var angleIterate = require('angle-iterate');
 
 var a = new angleIterate();
